@@ -699,7 +699,7 @@ const allStories = [
           arabic: "﴿قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ﴾",
           translation: "One of the two women said, 'O my father, hire him. Indeed, the best one you can hire is the strong and the trustworthy.’",
           reference: "Al-Qasas 28:26",
-          audio: "/assets/audio/Al-Qasas-ayat-26.mp3",
+          audio: "assets/audio/Al-Qasas-ayat-26.mp3",
         }
       ],
       postContent: `<p><b>Managerial Wisdom:</b> This move was a brilliant solution to their family's problem. By hiring a competent person, they ensured their family’s long-term stability and economic safety while upholding their own personal dignity.</p>`
