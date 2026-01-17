@@ -1,0 +1,11 @@
+.answer-btn {
+  transition: all 0.3s ease;
+}
+
+.answer-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+}
+
+.answer-btn:disabled {
+  cursor: not-allowed;
+}

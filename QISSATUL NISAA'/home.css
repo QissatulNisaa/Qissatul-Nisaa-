@@ -1,0 +1,19 @@
+.hero-bg {
+  background-image: url("../assets/images/bg.png");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.hero-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.15);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+}
+
