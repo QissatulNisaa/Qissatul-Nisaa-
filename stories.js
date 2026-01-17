@@ -63,7 +63,7 @@ const allStories = [
     {
       title: "Beyond Gender: Embracing Divine Wisdom",
       image: {
-       src: "assets/images/BeyondGender.png",
+       src: "Qissatul-Nisaa-/assets/images/BeyondGender.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       verses: [
@@ -83,12 +83,12 @@ const allStories = [
     {
       title: "The Divine Answer: When Sincerity Meets Grace",
       image: {
-       src: "assets/images/TheDivineAnswer.png",
+       src: "Qissatul-Nisaa-/assets/images/TheDivineAnswer.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       verses: [
         {
-          arabic: "﴿فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا  كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا  قَالَ يَا مَرْيَمُ أَنَّى لَكِ هَذَا  قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ  إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ﴾",
+          arabic: "﴿فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنْبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا  كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا  قَالَ يَا مَرْيَمُ أَنَّى لَكِ هَذَا  قَالَتْ هُوَ مِنْ عِنْدِ اللَّهِ  إِنَّ اللَّهَ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ﴾",
           translation: "So her Lord accepted her with gracious acceptance and reared her with goodly growth and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, 'O Maryam, from where is this to you?' She said, 'It is from Allah. Indeed, Allah provides for whom He wills without account'.",
           reference: "Ali 'Imran 3:37",
           audio: "assets/audio/Al-Imran-ayat-37.mp3",
@@ -134,7 +134,7 @@ const allStories = [
        {
         title: "Maryam binti ‘Imran: The Symbol of Perfection",
          image: {
-       src: "assets/images/TheSymbol.png",
+       src: "Qissatul-Nisaa-/assets/images/TheSymbol.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         content: "Maryam binti ‘Imran occupies a position unlike any other woman in history. As the only woman specifically mentioned by name in the Qur’an <b>—appearing 34 times—</b> her legacy is a masterclass in spiritual resilience. This exceptional status is further emphasized by the fact that an entire chapter, Surah Maryam, is devoted to her, setting her apart as a premier model of leadership and devotion."
@@ -143,7 +143,7 @@ const allStories = [
       {
         title: "The Twice-Chosen Woman: A Dual Elevation",
          image: {
-       src: "assets/images/TheTwice.png",
+       src: "Qissatul-Nisaa-/assets/images/TheTwice.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -165,7 +165,7 @@ const allStories = [
     {
         title: "The Strength of Spiritual Seclusion",
          image: {
-       src: "assets/images/TheStrength.png",
+       src: "Qissatul-Nisaa-/assets/images/TheStrength.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -186,7 +186,7 @@ const allStories = [
     {
         title: "Integrity Under Trial",
          image: {
-       src: "assets/images/Integrity.png",
+       src: "Qissatul-Nisaa-/assets/images/Integrity.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -207,7 +207,7 @@ const allStories = [
     {
         title: "Questions and Trust",
          image: {
-       src: "assets/images/Questions.png",
+       src: "Qissatul-Nisaa-/assets/images/Questions.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -228,7 +228,7 @@ const allStories = [
      {
         title: "The Final Decree: A Matter Ordained",
          image: {
-       src: "assets/images/TheFinalDecree.png",
+       src: "Qissatul-Nisaa-/assets/images/TheFinalDecree.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -293,7 +293,7 @@ const allStories = [
       {
         title: "Pioneer of Faith & The First Muhajirah",
         image: {
-       src: "assets/images/Pioneer.png",
+       src: "Qissatul-Nisaa-/assets/images/Pioneer.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         content: `Sarah’s leadership is established through her role in the first migration for the sake of Allah.`,
@@ -315,7 +315,7 @@ const allStories = [
       {
         title: "The Mother of Prophets & Divine Reward",
         image: {
-       src: "assets/images/TheMother.png",
+       src: "Qissatul-Nisaa-/assets/images/TheMother.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -337,7 +337,7 @@ const allStories = [
      {
         title: "Leadership in Hospitality",
         image: {
-       src: "assets/images/Leadership.png",
+       src: "Qissatul-Nisaa-/assets/images/Leadership.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -358,7 +358,7 @@ const allStories = [
     {
         title: "Resilience Against Hardship",
         image: {
-       src: "assets/images/Resilience.png",
+       src: "Qissatul-Nisaa-/assets/images/Resilience.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
         verses: [
@@ -424,7 +424,7 @@ const allStories = [
       {
       title: "Leadership through Consultation (Shura)",
        image: {
-       src: "assets/images/LeadershipShura.png",
+       src: "Qissatul-Nisaa-/assets/images/LeadershipShura.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -448,7 +448,7 @@ const allStories = [
     {
       title: "Diplomatic Intelligence",
       image: {
-       src: "assets/images/Diplomatic.png",
+       src: "Qissatul-Nisaa-/assets/images/Diplomatic.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -471,7 +471,7 @@ const allStories = [
     {
       title: "Spiritual Transformation & Intellectual Honesty",
       image: {
-       src: "assets/images/Spiritual.png",
+       src: "Qissatul-Nisaa-/assets/images/Spiritual.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -533,7 +533,7 @@ const allStories = [
     {
       title: "Divine Inspiration & Proactive Trust",
        image: {
-       src: "assets/images/DivineInspiration.png",
+       src: "Qissatul-Nisaa-/assets/images/DivineInspiration.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
 
@@ -559,7 +559,7 @@ const allStories = [
     {
       title: "Emotional Resilience & Patience",
        image: {
-       src: "assets/images/Emotional.png",
+       src: "Qissatul-Nisaa-/assets/images/Emotional.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -647,7 +647,7 @@ const allStories = [
     {
       title: "Professionalism and Moral Maturity",
        image: {
-       src: "assets/images/Professionalism.png",
+       src: "Qissatul-Nisaa-/assets/images/Professionalism.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -751,7 +751,7 @@ const allStories = [
      {
       title: "Moral Clarity and Compassion",
        image: {
-       src: "assets/images/MoralClarity.png",
+       src: "Qissatul-Nisaa-/assets/images/MoralClarity.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
@@ -774,7 +774,7 @@ const allStories = [
      {
       title: "Spiritual Resilience",
       image: {
-       src: "assets/images/SpiritualAsiyah.png",
+       src: "Qissatul-Nisaa-/assets/images/SpiritualAsiyah.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       content: `
