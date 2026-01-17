@@ -770,7 +770,7 @@ function getWomanIllustration(name) {
     "Queen of Sheba": "assets/images/queenofsheba.png",
     "Mother of Musa": "assets/images/motherofmusa.png",
     "The Two Women of Madyan": "assets/images/twowomenmadyan.png",
-    "Wife of Pharaoh":"/assets/images/asiyah.png"
+    "Wife of Pharaoh":"assets/images/asiyah.png"
   };
 
   let imageSrc = 'assets/images/women/default.png';
