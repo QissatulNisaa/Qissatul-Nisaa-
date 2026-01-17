@@ -44,7 +44,7 @@ const allStories = [
     {
       title: "The Vow of Hannah: A Legacy of Sincere Devotion",
        image: {
-       src: "assets/images/TheVowofHannah.png",
+      src: "assets/images/TheVowofHannah.png",
       alt: "Hannah binti Faqudz making a vow to Allah"
   },
       verses: [

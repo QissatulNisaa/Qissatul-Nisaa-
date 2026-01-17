@@ -52,3 +52,19 @@
 .quran-audio-wrapper {
   margin-top: -6px; /* rapatkan dengan ayat */
 }
+
+.image-frame {
+  padding: 16px;
+  border-radius: 22px;
+  background: #fff7ed;
+  border: 4px double #d09ae1;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+}
+
+
+.framed-image {
+  display: block;
+  max-width: 420px;
+  width: 100%;
+  border-radius: 18px;
+}
